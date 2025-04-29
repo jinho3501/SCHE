@@ -1,2 +1,3 @@
 # SCHE
 돌아서면 까먹는 나를 위한 메모 서비스
+![Uploading image.png…]()
