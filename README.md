@@ -1,5 +1,4 @@
 # SCHE
-돌아서면 까먹는 나를 위한 메모 서비스
 
 ![Image](https://github.com/user-attachments/assets/78c82d5e-52c6-4dc1-9752-fde366efbead)
 
